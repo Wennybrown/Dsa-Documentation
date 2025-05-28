@@ -9,36 +9,44 @@ i have learnt quite a number of things ranging from Ms Excel to SQL and now my p
 ### Project overwiew 
 
 This Data analysis aims to generate Insights into the sales performance 
-of the E commerce project over the past years . By analysing the various parameter in the data received 
-we seek to gather enough insights to make reasonable decision 
+of the E commerce project over the past years . By analysing the various parameter in the data received we seek to gather enough insights to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and know the best performance from our data. 
 
 ### Data source 
-the primary source of dara used 
+the primary source of dara used here is data sales.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FREED or any other data repository site.
 
 ### Tools used 
-- Ms Excel for  data cleanings [Download Here] (google.com)
--   For Data Collection
--   For Data Cleaning
+- Ms Excel for  data cleanings [Download Here](http//;microsoft.com)
+  - For Data Collection
+  - For Data Cleaning
     1. Data Manipulation
     2. Data Munching 
 
 
 - SQL server (For Quarying And Analysis) 
-- Power BI (For creating Report)
-- Ms Power Point ( fpr representation  
+- Power BI [Download here ]([For creating Report](http://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- Ms Power Point ( fpr representation )
 
 ### Data Cleaning and Preparation
-1. data loading and inspection
-2. Handing missing table
-3.
 
+In the initial phase of data cleaning and preparation , we perform the following action; 
+1. Data loading and inspection
+2. Handing missing variaable
+3. Data Cleaning and formatting
 
+### Exploratory Data Analysis
 
+EDA Involved the exploring of the data to answer some questions about the data such as 
+- what is the overall sales trend
+- Which product are top sellers
+- What are the Products on Peak sales ?
 
 ### Data analysis 
+
 This is where we include some basic lines of code pr queires  or even some of  DAX expressions used during your analysis
 
-''' A,B,C
+``` SQL
+SELECT A,B,C
+WHERE A> 15 
 
 
 

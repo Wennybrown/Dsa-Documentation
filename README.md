@@ -16,7 +16,7 @@ we seek to gather enough insights to make reasonable decision
 the primary source of dara used 
 
 ### Tools used 
-- Ms Excel for  data cleanings[Download Here] {microsoft.com}
+- Ms Excel for  data cleanings [Download Here] (google.com)
 -   For Data Collection
 -   For Data Cleaning
     1. Data Manipulation
@@ -26,3 +26,20 @@ the primary source of dara used
 - SQL server (For Quarying And Analysis) 
 - Power BI (For creating Report)
 - Ms Power Point ( fpr representation  
+
+### Data Cleaning and Preparation
+1. data loading and inspection
+2. Handing missing table
+3.
+
+
+
+
+### Data analysis 
+This is where we include some basic lines of code pr queires  or even some of  DAX expressions used during your analysis
+
+''' A,B,C
+
+
+
+

@@ -46,8 +46,10 @@ This is where we include some basic lines of code pr queires  or even some of  D
 
 ``` SQL
 SELECT A,B,C
-WHERE A> 15 
+WHERE A> 15
 
 
+```
+### My Analysis
 
 
